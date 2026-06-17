@@ -25,8 +25,5 @@ This repository contains my Java internship projects completed as part of the Co
 - OOP Concepts
 - ArrayList & Collections
 
-## 🎥 Project Demo
-(LinkedIn video link here)
-
 ## 🔗 Author
 Pranathi Chandana Reddy
